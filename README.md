@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Heidi Klem
+![bearlake](bear_lake.pdf)
 
 You can use the [editor on GitHub](https://github.com/hklem/heidi_klem/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
